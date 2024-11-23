@@ -1,0 +1,54 @@
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.calculator{
+    justify-content: center;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 5px;
+}
+.display{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.buttons{
+    max-width: max-content;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    
+}
+.buttons2{
+    max-width: max-content;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.buttons3{
+    max-width: max-content;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.buttons4{
+    max-width: max-content;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.buttons5{
+    max-width: max-content;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
